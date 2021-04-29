@@ -3,9 +3,9 @@
 const CACHE_NAME = 'static-cache-v1',
   FILES_TO_CACHE = [
     './',
-    'https://fonts.googleapis.com/css?family=Chelsea+Market|Luckiest+Guy&display=swap',
-    './style.css',
-    './script.js',
+    'https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js',
+    './css/main.css',
+    './js/main.js',
     './img/ProgramadorFitness.png',
     './img/favicon.png'
   ]
